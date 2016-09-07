@@ -1,5 +1,7 @@
 # TLB Analyzer
 
+![framework](https://github.com/whitestonelee/tlb_analyzer/blob/master/img/framework.png)
+
 ## Introduction
 TLB Analyzer is a library for analyzing cache usage for virtualization environments.
 It consists of two modules TLB Tracer and TLB Simulator.
@@ -15,8 +17,6 @@ It can simulate several common types of nested paging, including using NTLB, PWC
 It accepts traces of memory accesses stored in the format defined by TLB Tracer.
 It also provides a helper function that can run simulation with all trace files in a specific folder.
 for more details, please refer to tlb_sim.h.
-
-![framework](https://github.com/whitestonelee/tlb_analyzer/blob/master/img/framework.png)
 
 ## Usage
 First, type 'make' in a commad line to build this project.
