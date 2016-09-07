@@ -16,6 +16,8 @@ It accepts traces of memory accesses stored in the format defined by TLB Tracer.
 It also provides a helper function that can run simulation with all trace files in a specific folder.
 for more details, please refer to tlb_sim.h.
 
+![framework](https://github.com/whitestonelee/tlb_analyzer/blob/master/img/framework.png)
+
 ## Usage
 First, type 'make' in a commad line to build this project.
 
