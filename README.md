@@ -26,7 +26,3 @@ To use this library, please link to libtlb_analyzer.a statically.
 To run the example for TLB Simulator, please execute 'tlb_sim' in a command line.
 
 An example of integrating TLB Tracer with Android Emulator is located at the folder 'qemu'.
-
-### About the Example
-
-
